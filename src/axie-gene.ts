@@ -504,7 +504,7 @@ export class AxieGene {
     let ret = part[skin];
     if (ret === undefined) {
       const fallBack = part[PartSkin.Global];
-      if (fallBack === undefined) throw new Error('cannot recognize part skin');
+      if (fallBack === undefined) throw new Error('cannot recognize part skin 2');
       ret = fallBack;
     }
     return ret;
@@ -552,7 +552,7 @@ export class AxieGene {
       else ret = binPartSkinMap.get(regionBin);
     }
     if (ret === undefined) {
-      throw new Error('cannot recognize part skin');
+      throw new Error('cannot recognize part skin 1');
     }
     return ret;
   }

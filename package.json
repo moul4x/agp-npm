@@ -1,7 +1,7 @@
 {
   "name": "agp-npm",
   "version": "v1.0.11",
-  "author": "Shane Maglangit",
+  "author": "m0ul4x",
   "license": "GPL-3.0",
   "description": "Gene parsing package for Axie Infinity.",
   "main": "dist/axie-gene.js",
@@ -47,7 +47,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShaneMaglangit/agp-npm.git"
+    "url": "git+https://github.com/moul4x/agp-npm.git"
   },
   "bugs": {
     "url": "https://github.com/ShaneMaglangit/agp-npm/issues"
