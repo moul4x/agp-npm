@@ -1,6 +1,6 @@
 {
-  "name": "uptodate-agp-npm",
-  "version": "v1.0.11",
+  "name": "agp-npm-uptodate",
+  "version": "v1.1.0",
   "author": "m0ul4x",
   "license": "GPL-3.0",
   "description": "Gene parsing package for Axie Infinity.",
